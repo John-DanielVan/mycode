@@ -16,8 +16,8 @@ rooms = {
 }
 
 room_items = {
-    "Armory": ["Health Potion"],
-    "Throne Room": ["Ancient Sword"]
+    "Armory": ["health potion"],
+    "Throne Room": ["ancient sword"]
 }
 
 demons = {
